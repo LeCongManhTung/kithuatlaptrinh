@@ -1,0 +1,5 @@
+print('sinh vien: le cong manh tung')
+print('mssv: 235752021610041')
+print('##########')
+ds = input('Nhập chuỗi: ').split()
+print('vị trí của chuỗi vinh là',ds.index('vinh'))

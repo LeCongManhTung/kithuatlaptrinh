@@ -1,0 +1,7 @@
+print('sinh vien: le cong manh tung')
+print('mssv: 235752021610041')
+print('##########')
+ho_ten = input("Nhap ho va ten: ").strip()
+ho, ten = ho_ten.split()
+print("Ho:", ho)
+print("Tên riêng:", ten)

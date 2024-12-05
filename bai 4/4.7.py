@@ -1,0 +1,6 @@
+print('sinh vien: le cong manh tung')
+print('mssv: 235752021610041')
+print('##########')
+chuoi = input("Nhap chuoi: ")
+chuoi_khong_chu_so = "".join ([ky_tu for ky_tu in chuoi if not ky_tu.isdigit()])
+print("Chuối sau khi loại bỏ chữ số:", chuoi_khong_chu_so)
